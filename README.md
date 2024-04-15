@@ -5,7 +5,7 @@ Winget repository has now 9500 applications available.
  * IT is important to have applications updated to the latest version. (Security and functionality).
  * It is important to be able to PIN applications (Like Office, Edge, Adobe that have their own methods for updates. Or for OnPrem applications to keep them the same version as Onprem servers)
 
-All is provided without warranty in a PDF file, including scripts and descriptions on how to do it).
+All is provided without warranty in a PDF file, including scripts and descriptions on how to do it.
 
 
 
